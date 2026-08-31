@@ -136,6 +136,6 @@ If you use this code or methodology in your research, please cite our paper:
 ---
 
 ## Contact
-* **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* **LinkedIn**: [linkedin.com/in/your-profile](www.linkedin.com/in/beatriz-iara-silva)
 
 ```
