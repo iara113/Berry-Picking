@@ -138,4 +138,3 @@ If you use this code or methodology in your research, please cite our paper:
 ## Contact
 * **LinkedIn**: [beatriz-iara-silva](https://www.linkedin.com/in/beatriz-iara-silva)
 
-```
